@@ -125,6 +125,7 @@ Everything below is community-built and sits on top of these seams.
 ### Tools & Editor UX
 
 - [Zhangbo-cn/dsh-voice-input-plugin](https://github.com/Zhangbo-cn/dsh-voice-input-plugin) (★6) — Composer mic for the Web UI: tap-to-monitor live transcription and hold-to-talk, with host Edge TTS reply reading that streams while the model generates, echo-pause during reading, and tap-to-stop.
+- [huliux/dsh-asr-plugin](https://github.com/huliux/dsh-asr-plugin) (★20) — Local meeting transcription for DeepSeek Harness on Apple Silicon macOS: dual-track recording, live transcript drafts with speaker labels, and @-referenced summaries into decisions and action items. Audio is transcribed on-device, not by a cloud ASR service.
 
 **中文**：编辑器体验增强、`@file` 引用、消息分支编辑、会话回滚等"好不好用全靠它"的小工具。
 
